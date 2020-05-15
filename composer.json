@@ -1,14 +1,25 @@
 {
-    "name": "davejamesmiller/laravel-breadcrumbs",
+    "name": "langleyfoxall/laravel-breadcrumbs",
     "description": "A simple Laravel-style way to create breadcrumbs.",
     "keywords": [
         "laravel"
     ],
-    "homepage": "https://github.com/davejamesmiller/laravel-breadcrumbs",
+    "homepage": "https://github.com/langleyfoxall/laravel-breadcrumbs",
     "authors": [
         {
             "name": "Dave James Miller",
-            "email": "dave@davejamesmiller.com"
+            "email": "dave@davejamesmiller.com",
+            "role": "Original creator"
+        },
+        {
+            "name": "Greg Mayes",
+            "email": "greg@langleyfoxall.co.uk",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Ash Nabbs",
+            "email": "ash@langleyfoxall.co.uk",
+            "role": "Maintainer"
         }
     ],
     "license": "MIT",
